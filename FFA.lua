@@ -1,7 +1,7 @@
 return {
-  ["AnimeAstral"] = true,
-  ["AnimeDice"] = true,
-  ["RideAPet"] = true,
+  ["AnimeAstral"] = false,
+  ["AnimeDice"] = false,
+  ["RideAPet"] = false,
   ["V2"] = false,
   ["acs"] = false,
 }
