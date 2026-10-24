@@ -1,5 +1,6 @@
 return {
     [10708913337] = "AnimeDice",
     [10035204815] = "RideAPet",
-    [10502841145] = "AnimeAstral"
+    [10502841145] = "AnimeAstral",
+    [7332711118] = "BrainrotEvolution",
 }
