@@ -1,9 +1,9 @@
 return {
-  ["AnimeAstral"] = true,
-  ["AnimeDice"] = true,
-  ["BrainrotEvolution"] = true,
-  ["BreakAndStealEgg"] = true,
-  ["RideAPet"] = true,
+  ["AnimeAstral"] = false,
+  ["AnimeDice"] = false,
+  ["BrainrotEvolution"] = false,
+  ["BreakAndStealEgg"] = false,
+  ["RideAPet"] = false,
   ["V2"] = false,
   ["acs"] = false,
 }
