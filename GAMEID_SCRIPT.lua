@@ -3,4 +3,5 @@ return {
     [10035204815] = "RideAPet",
     [10502841145] = "AnimeAstral",
     [7332711118] = "BrainrotEvolution",
+    [10765288803] = "BreakAndStealEgg",
 }
